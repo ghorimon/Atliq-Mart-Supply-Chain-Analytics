@@ -17,6 +17,21 @@ The goal: help stakeholders see what truly matters — and act on it.
 
 ---
 
+## 🧩 Data Model  <img src="Dashboard_View/Data_Model.png" alt="Data Model" width="200" align="right" />
+
+**Tables Used:**
+
+- **fact_orders** → Order-level details (Order ID, Product, Qty, Dates, Delivered Qty)  
+- **fact_orders_summary** → Aggregated order metrics including OT%, IF%, OTIF%  
+- **dim_customers** → Customer info (Customer ID, Name, City, Segment)  
+- **dim_products** → Product info (Product ID, Name, Category, Brand)  
+- **dim_date** → Calendar table (Day, Week, Month, Quarter, Year)  
+- **dim_targets** → SLA and performance targets for each region or partner  
+
+📘 *The model follows a Star Schema — with fact tables linked to multiple dimension tables for efficient reporting.*
+
+---
+
 ## 🔍 What I Built  
 
 | Section | Description |
