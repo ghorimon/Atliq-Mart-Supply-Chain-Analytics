@@ -32,6 +32,38 @@ The goal: help stakeholders see what truly matters — and act on it.
 
 ---
 
+## 📊 Dashboard Views  
+
+Below are snapshots of key pages from the Power BI dashboard, designed to provide a complete overview of supply chain performance — from KPIs to insights and recommendations.
+
+---
+
+### 🏠 Home Page  
+
+<p align="center">
+  <img src="Dashboard_View/Home_Page.png" alt="Home Page" width="700"/>
+</p>
+
+**Highlights:**  
+- AtliQ Mart overview page showing summary KPIs (OT%, IF%, OTIF%, VOFR%, LFR%)  
+- Clean, intuitive layout with key performance metrics and navigation cards  
+- Designed for senior management to quickly assess overall performance
+
+---
+
+### 📈 Dashboard View  
+
+<p align="center">
+  <img src="Dashboard_View/Dashboard_View.png" alt="Dashboard View" width="700"/>
+</p>
+
+**Highlights:**  
+- Core KPIs tracked over time: OT%, IF%, OTIF%, VOFR%, and LFR%  
+- Interactive slicers for filtering by **Region**, **Customer**, **Category**, and **Month**  
+- Split-by-city comparison for OTIF vs Target, OT vs Target, IF vs Target  
+
+---
+
 ## 🔍 What I Built  
 
 | Section | Description |
